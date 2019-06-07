@@ -3,10 +3,12 @@ A simple django config to deploy apps with docker to development and digital oce
 
 for development:
 
+  
   $ docker-compose up --build 
 
 for production:
 
+  
   $ docker-compose up --build -d  
 
 
